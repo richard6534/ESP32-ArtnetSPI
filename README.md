@@ -67,6 +67,10 @@ All LEDs based on the wsXXXX and clocked LED series are supported. These can be 
 - 找到指派給 ESP32 的 IP 位址，並在網頁瀏覽器中開啟它。
   - 若要輕鬆尋找 IP 位址，可以按上面的按鈕，即會顯示IP及目前設定。
 
+# Test
+
+![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/IMG_0550.MOV)
+
 ## Open-Source Contributions
 This project is fully open-source! Feel free to contribute improvements, share your builds, and collaborate with the community.
 
