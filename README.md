@@ -21,6 +21,11 @@
 - RGB 測試循環：利用內建循環模式快速測試 LED 輸出。
 - 完全開源：包含 PCB 設計和 BOM，使用戶能夠建立自己經濟高效的控制器。
 
+## Design Drawing
+
+![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/Sheet_1.png)
+![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/Sheet_2.png)
+
 ## PCB Design
 
 - 這是正在進行中的PCB設計，採用12V轉5V降壓轉換器，並使用螺絲端子方便連接。
