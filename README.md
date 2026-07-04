@@ -47,3 +47,11 @@
 - Espressif ESP32 board manager library
   - Use https://espressif.github.io/arduino-esp32/package_esp32_index.json
   - Version 2.0.17 or lower, otherwise compilation errors arise
+
+## Supported LED ICs
+
+All LEDs based on the wsXXXX and clocked LED series are supported. These can be 3, 4, or 5 channel LEDs. These include, but are not limited to:
+  - WS2805, WS2811, WS2812, WS2813, WS2814, WS2815 (Tested)
+  - APA102, SK6812 SPI-based LEDs (Tested)
+  - SK6812, SK6812W, SK6812-mini (Not tested)
+  - GS8208, TM1814, TM1829, UCS8904, UCS8903, FW1906 (Not tested)
