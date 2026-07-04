@@ -39,4 +39,4 @@
 - WS2812 RGB 狀態指示燈（可選，用於狀態指示）)
 - 12v/5v Power Supply
 
-**Important!** Only a few ESP32's are supported! Check the WebServer_ESP32_W5500 for supported Boards when using the W5500.
+**Important!** 僅支援部分 ESP32 型號！使用 W5500 時，請查看 WebServer_ESP32_W5500 以了解支援的開發板。
