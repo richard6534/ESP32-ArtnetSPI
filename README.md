@@ -31,3 +31,12 @@
 - 這是正在進行中的PCB設計，採用12V轉5V降壓轉換器，並使用螺絲端子方便連接。
 
 ![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/PCB_PCB_Artnet-SPI-Board_2026-07-04.png)
+
+## Hardware Requirements
+
+- ESP32-S2-NodeMCU 
+- W5500 Ethernet module
+- WS2812 RGB 狀態指示燈（可選，用於狀態指示）)
+- 12v/5v Power Supply
+
+**Important!** Only a few ESP32's are supported! Check the WebServer_ESP32_W5500 for supported Boards when using the W5500.
