@@ -40,3 +40,10 @@
 - 12v/5v Power Supply
 
 **Important!** 僅支援部分 ESP32 型號！使用 W5500 時，請查看 WebServer_ESP32_W5500 以了解支援的開發板。
+
+## Software Requirements
+
+- Arduino IDE with ESP32 support
+- Espressif ESP32 board manager library
+  - Use https://espressif.github.io/arduino-esp32/package_esp32_index.json
+  - Version 2.0.17 or lower, otherwise compilation errors arise
