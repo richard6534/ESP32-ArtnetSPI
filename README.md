@@ -32,6 +32,8 @@
 
 ![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/PCB_PCB_Artnet-SPI-Board_2026-07-04.png)
 
+![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/擷取.PNG)
+
 ## Hardware Requirements
 
 - ESP32-S2-NodeMCU 
