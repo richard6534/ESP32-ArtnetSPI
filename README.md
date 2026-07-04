@@ -69,7 +69,7 @@ All LEDs based on the wsXXXX and clocked LED series are supported. These can be 
 
 # Test
 
-![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/IMG_0550.MOV)
+![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/IMG_0549.jpg)
 
 ## Open-Source Contributions
 This project is fully open-source! Feel free to contribute improvements, share your builds, and collaborate with the community.
