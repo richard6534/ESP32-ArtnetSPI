@@ -64,9 +64,8 @@ All LEDs based on the wsXXXX and clocked LED series are supported. These can be 
 
 ## Access the Web Interface:
 - 上傳程式碼後，使用 W5500 乙太網路模組將 ESP32 連接到網路。
-- 將核心調試等級設為“info”以獲取更多效能信息
 - 找到指派給 ESP32 的 IP 位址，並在網頁瀏覽器中開啟它。
-  - 若要輕鬆尋找 IP 位址，請使用 Resolume 的進階輸出功能。它會自動偵測 Artnet 節點。
+  - 若要輕鬆尋找 IP 位址，可以按上面的按鈕，即會顯示IP及目前設定。
 
 ## Open-Source Contributions
 This project is fully open-source! Feel free to contribute improvements, share your builds, and collaborate with the community.
