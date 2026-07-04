@@ -55,3 +55,9 @@ All LEDs based on the wsXXXX and clocked LED series are supported. These can be 
   - APA102, SK6812 SPI-based LEDs (Tested)
   - SK6812, SK6812W, SK6812-mini (Not tested)
   - GS8208, TM1814, TM1829, UCS8904, UCS8903, FW1906 (Not tested)
+
+## Open-Source Contributions
+This project is fully open-source! Feel free to contribute improvements, share your builds, and collaborate with the community.
+
+##License
+This project is released under the MIT License. You are free to use, modify, and distribute it with proper attribution.
