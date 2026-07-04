@@ -5,18 +5,18 @@
 
 ## Features
 
-- 4 Outputs, 16 Universes in Total: Supports up to 4 LED strips with 4 universes per output, enabling large-scale LED installations.
-- Supports 3 (RGB), 4 (RGBW), and 5 (RGBAW) color order LEDs.
-- Supports 3-wire LEDs (WS28xx) and 4-wire  SPI clock-based LEDs (APA102).
-- Ethernet and Wi-Fi Support: Supports both wired and wireless Art-Net control for flexible connectivity.
-- AP Mode for Debugging: Easily configure the device in standalone mode without needing an external network.
-- Static IP option for permanent installations.
-- Physical button for Mode switching between artnet, static IP, RGB test and static color.
-- Over-The-Air (OTA) updates to update your node with different versions easily.
-- Configure the number of LEDs, outputs, start universe, and node name via a web interface.
-- High Frame Rates: Over 40 FPS, depending on the software used.
-- Reliable Performance: Boasts 99%+ reliability with less than 1% dropped frames.
-- 128x32 OLED Display Support: Provides real-time status updates and configuration feedback.
-- Status RGB LED: Indicates device status for easy debugging and monitoring.
-- **RGB Test Cycle**: Quickly test LED outputs with built-in cycling modes.
-- Fully Open-Source: Includes PCB design and BOM, allowing users to build their own cost-effective controllers.
+-4 個輸出端口，共 16 個燈路：每個輸出端口最多可連接 4 條 LED 燈帶，每個輸出端口有 4 個燈路，可實現大規模 LED 安裝。
+-1 個DMX輸出端口，可連接DMX相關設備。
+-支援 3 色（RGB）、4 色（RGBW）和 5 色（RGBAW）LED。
+-支援 3 線 LED (WS28xx) 和 4 線 SPI 時脈 LED (APA102)。
+-支援乙太網路和 Wi-Fi：支援有線和無線 Art-Net 控制，實現靈活的連線。
+-靜態 IP 位址選項適用於永久安裝。
+-用於在 artnet、靜態 IP、RGB 測試和靜態顏色之間切換模式的實體按鈕。
+-透過空中下載 (OTA) 更新，可以輕鬆地將您的節點更新到不同版本。
+-透過網頁介面配置 LED 數量、輸出埠、起始和節點名稱。
+-高幀率：超過 40 FPS，取決於所使用的軟體。
+-效能可靠：可靠性高達 99% 以上，丟幀率低於 1%。
+-支援 128x32 OLED 顯示器：提供即時狀態更新和設定回饋。
+-狀態 RGB LED：指示設備狀態，方便調試和監控。
+-RGB 測試循環：利用內建循環模式快速測試 LED 輸出。
+-完全開源：包含 PCB 設計和 BOM，使用戶能夠建立自己經濟高效的控制器。
