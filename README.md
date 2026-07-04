@@ -58,6 +58,10 @@ All LEDs based on the wsXXXX and clocked LED series are supported. These can be 
   - SK6812, SK6812W, SK6812-mini (Not tested)
   - GS8208, TM1814, TM1829, UCS8904, UCS8903, FW1906 (Not tested)
 
+# Configuration
+
+![Image Description](https://github.com/richard6534/ESP32-ArtnetSPI/blob/main/Image/WebSetting.PNG)
+
 ## Open-Source Contributions
 This project is fully open-source! Feel free to contribute improvements, share your builds, and collaborate with the community.
 
